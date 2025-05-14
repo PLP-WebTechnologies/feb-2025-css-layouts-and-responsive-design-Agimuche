@@ -1,0 +1,22 @@
+{
+  "name": "responsive-webpage",
+  "version": "1.0.0",
+  "description": "A responsive webpage using modern CSS techniques including Flexbox, Grid, and Media Queries.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "responsive",
+    "webpage",
+    "flexbox",
+    "grid",
+    "media queries"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
